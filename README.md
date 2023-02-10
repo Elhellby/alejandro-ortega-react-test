@@ -41,6 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Credentials
 username = test@test.com
+
 Password  :  "password01
 
 ## Learn More
